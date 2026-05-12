@@ -1,5 +1,5 @@
 # Macroeconomic Forex Analysis
-![Overview](https://your-image-url-here)
+![image alt](https://github.com/Yuitox503/Macroeconomic-Forex-Analysis/blob/main/Overview.jpg?raw=true)
 
 ## Project Overview
 This project explores the relationship between macroeconomic indicators and forex market movements using Python and Jupyter Notebook. The objective is to uncover how economic variables such as inflation, GDP growth, interest rates, and employment data influence EUR/USD and GBP/USD exchange rate trends.
@@ -40,8 +40,7 @@ Models implemented:
 - K-Nearest Neighbors Regressor
 
 ### Final Model: Gradient Boosting Regressor
-
-![Model Results](https://your-image-url-here)
+![image alt](https://github.com/Yuitox503/Macroeconomic-Forex-Analysis/blob/main/Model%20Result.jpg?raw=true)
 
 Performance (time-based split):
 - R² Score: ~0.45
